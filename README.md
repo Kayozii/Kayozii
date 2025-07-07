@@ -1,14 +1,21 @@
 <h1 align="center"><i><b>👋 Opa! Eu sou o Kayo!</b></i></h1>
 
-<p align="center">
+<p>
   💻 Estudante apaixonado por <strong>academia🏋️, tecnologia, segurança cibernética e desenvolvimento backend</strong><br><br>
+
+  - Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
+  - Estou no <strong> 3º </strong> semestre da faculdade.
 
   🔍 Em constante evolução como pessoa e programador, 
   buscando contribuir com projetos de impacto<br><br>
+  
+- <p> Quero densenvolver ainda mais minhas atuais habilidades, e aderir a novas ao longo do caminho em que vou aprendendo.</p>
+- <p>acredito que a maior virtude de um sábio é ouvir, por isso não desprezo conselhos e exortações de ninguém, creio que você sempre pode aprender com outrem, independentemente de idade e Gênero.</p>
+  
 
-  🌱 Atualmente estudando: 
+ 🌱 Atualmente estudando: 
   <strong>Python, PostgreSQL, Kali Linux e Redes</strong>
-</p>
+ </p>
 
 
 ---
