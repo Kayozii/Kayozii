@@ -7,14 +7,14 @@
   - Estou no <strong> 3º </strong> semestre da faculdade.
 
   🔍 Em constante evolução como pessoa e programador, 
-  buscando contribuir com projetos de impacto<br><br>
-  
+  buscando contribuir com projetos de impacto.<br><br>
+- Enfrento qualquer desafio com disposição para aprender. 
 - <p> Quero densenvolver ainda mais minhas atuais habilidades, e aderir a novas ao longo do caminho em que vou aprendendo.</p>
 - <p>acredito que a maior virtude de um sábio é ouvir, por isso não desprezo conselhos e exortações de ninguém, creio que você sempre pode aprender com outrem, independentemente de idade e Gênero.</p>
   
 
  🌱 Atualmente estudando: 
-  <strong>Python, PostgreSQL, Kali Linux e Redes</strong>
+  <strong>Python, PostgreSQL, Kali Linux e Redes.</strong>
  </p>
 
 
